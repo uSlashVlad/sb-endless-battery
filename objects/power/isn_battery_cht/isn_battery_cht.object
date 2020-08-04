@@ -1,11 +1,11 @@
 {
   "objectName" : "isn_battery_cht",
-  "rarity" : "Common",
-    "colonyTags" : [ "science" ],
+  "rarity" : "Legendary",
+  "colonyTags" : [ "science" ],
   "category" : "wire",
-  "price" : 2500,
-  "description" : "A cheating power storage unit. Stores up to 999999999J of power and dispenses 99999W when connected.",
-  "shortdescription" : "^cyan;Endless Battery^reset;",
+  "price" : 20000,
+  "description" : "A cheating power storage unit. Stores up to 999999999J of power and dispenses 99999W when connected",
+  "shortdescription" : "^orange;Basic^reset; Battery",
   "race" : "generic",
   "printable" : false,
 
@@ -30,7 +30,7 @@
   },
   "animationPosition" : [0, 0],
 
-  "scripts" : [ "/scripts/power.lua","/objects/power/isn_battery.lua" ],
+  "scripts" : [ "/scripts/fupower.lua","/objects/power/isn_battery.lua" ],
   "scriptDelta" : 60,
 
   "outputNodes" : [ [1, 3] ],

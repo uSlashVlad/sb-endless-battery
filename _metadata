@@ -1,7 +1,7 @@
 {
-  "version" : "1",
+  "version" : "2.0",
   "tags" : "Cheats and God Items",
-  "author" : "Uberman",
+  "author" : "u/vlad",
   "description" : "This mod adds almost endless Frackin' Universe battery.\n\nStores up to 999999999J of power and dispenses 99999W.\n\nYou can only cheat this item by command /spawnitem isn_battery_cht",
   "name" : "endless battery",
   "priority" : 9999,
